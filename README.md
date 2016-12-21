@@ -1,9 +1,9 @@
 ### Worldpackers Mobile Challenge : )
 
-Your goal is to create a search result screen using our API (by this time, you've already downloaded our app, right?)
+Your goal is to create a MVP search result screen based on our app layout and API (by this time, you've already downloaded our app, right?)
 
 Get inspired and let's go!
-You are allowed to use anything you want to use to build the best solution for our search app.
+You're allowed to use anything you want to use to build the best solution for our search app.
 
 ##### Endpoint:
 * GET https://staging-worldpackersplatform.herokuapp.com/api/search?q=TEXT
