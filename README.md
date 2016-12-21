@@ -3,7 +3,7 @@
 Your goal is to create a MVP search result screen based on our app layout and API (by this time, you've already downloaded our app, right?)
 
 Get inspired and let's go!
-You're allowed to use anything you want to build the best solution for our search app.
+You're allowed to use anything you want to build it.
 
 ##### Endpoint:
 * GET https://staging-worldpackersplatform.herokuapp.com/api/search?q=TEXT
