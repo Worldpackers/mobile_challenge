@@ -1,4 +1,4 @@
-# Worldpackers Mobile Challenge : )
+### Worldpackers Mobile Challenge : )
 
 Your goal is to create a search result screen using our API (by this time, you've already downloaded our app, right?)
 
