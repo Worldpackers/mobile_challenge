@@ -9,5 +9,5 @@ You're allowed to use anything you want to build it. The only requirement is to 
 * GET https://staging-worldpackersplatform.herokuapp.com/api/search?q=TEXT
   * TEXT is the term searched by the user.
   * Headers:
-    * Accept: application/vnd.worldpackers.com.v6+json
+    * Accept: application/vnd.worldpackers.com.v9+json
     * Authorization: bearer 9e5a86cfca45eba00668e1baf15fd8dd65c15ad760e00845b81995d242844cdd
